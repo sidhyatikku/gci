@@ -1,7 +1,6 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) [![gitter](https://img.shields.io/badge/chat-gitter-brightgreen.svg)](https://gitter.im/sidhyatikku)
-[![stars](https://img.shields.io/github/stars/sidhyatikku/gci.svg?label=Stars&style=social)](https://github.com/sidhyatikku/gci/stargazers) [![watch](https://img.shields.io/github/watchers/sidhyatikku/gci.svg?label=Watch&style=social)](https://github.com/sidhyatikku/gci/watchers)
-[![follow-gh](https://img.shields.io/github/followers/sidhyatikku.svg?label=Follow&style=social)](https://github.com/sidhyatikku) [![follow-twitter](https://img.shields.io/twitter/follow/sidhyatikku.svg?label=Follow&style=social)](https://twitter.com/sidhyatikku)
+[![GitHub stars](https://img.shields.io/github/stars/sidhyatikku/gci.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/sidhyatikku/gci/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/sidhyatikku/gci.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/sidhyatikku/gci/watchers/) [![follow-gh](https://img.shields.io/github/followers/sidhyatikku.svg?label=Follow&style=social)](https://github.com/sidhyatikku) [![follow-twitter](https://img.shields.io/twitter/follow/sidhyatikku.svg?label=Follow&style=social)](https://twitter.com/sidhyatikku)
 
 # GCI Tasks
 This Repository contains list to all the tasks I completed during Google Code-In :bowtie:
