@@ -7,7 +7,7 @@ This Repository contains list to all the tasks I completed during Google Code-In
 
 ### GCI 2017
 
-This was my first GCI. I did about 38 tasks, all to [JBoss Community](https://github.com/JBossOutreach). I did not win anything but then I got to learn alot.
+This was my first GCI. I did about 38 tasks, all to [JBoss Community](https://github.com/JBossOutreach). I did not win anything but then I got to learn a lot.
 To view all the tasks completed during GCI 2017, [click here](gci2017.md).
 
 ### GCI 2018
