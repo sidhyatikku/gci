@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/sidhyatikku/gci.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/sidhyatikku/gci/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/sidhyatikku/gci.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/sidhyatikku/gci/watchers/) [![follow-gh](https://img.shields.io/github/followers/sidhyatikku.svg?label=Follow&style=social)](https://github.com/sidhyatikku) [![follow-twitter](https://img.shields.io/twitter/follow/sidhyatikku.svg?label=Follow&style=social)](https://twitter.com/sidhyatikku)
 
 # GCI Tasks
-This Repository contains list to all the tasks I completed during Google Code-In :bowtie:
+This Repository contains list to all the tasks I completed during Google Code-In :bowtie::octocat:
 
 ### GCI 2017
 
