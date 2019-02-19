@@ -5,6 +5,7 @@
 # GCI Tasks
 This Repository contains list to all the tasks I completed during Google Code-In :bowtie::octocat:
 
+You can have a look at my blog on [medium](https://blog.usejournal.com/how-i-won-a-free-trip-to-google-google-code-in-2018-bcfa3c4c01d7) to get more information.
 ### GCI 2017
 
 This was my first GCI. I did about 38 tasks, all to [JBoss Community](https://github.com/JBossOutreach). I did not win anything but then I got to learn a lot.
